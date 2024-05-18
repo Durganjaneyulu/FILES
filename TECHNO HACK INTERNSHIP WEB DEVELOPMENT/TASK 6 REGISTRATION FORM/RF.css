@@ -1,0 +1,40 @@
+h1{
+background-color: #FEFFED;
+padding: 30px 35px;
+margin: -10px -50px;
+text-align:center;
+border-radius: 10px 10px 0 0;
+}
+.container{
+width: 900px;
+height:100%;
+margin:200px;
+padding: 50px;  
+background-color:green;
+ border:5px solid red;
+ border-radius:20px
+  
+}
+
+button{
+font-size: 16px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+color: #4E4D4B;
+}
+button:hover{
+background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+}
+
+
+
+
+
+  
+input[type=text], input[type=password]{  
+  width: 100%;  
+  padding: 15px;  
+  margin: 5px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  

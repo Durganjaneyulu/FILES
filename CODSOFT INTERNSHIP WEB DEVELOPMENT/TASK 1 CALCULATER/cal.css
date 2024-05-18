@@ -1,0 +1,22 @@
+body {
+    
+ background-color:green;
+}
+.btn
+{
+    background-color:blue;
+    text-align:center;
+    color:white;
+    height:50px;
+    width:60px;
+    margin-bottom:10px;
+}
+.txt
+{
+    background-color:blue;
+    color:white;
+    height:50px;
+    width:240px;
+    margin-bottom:10px;
+	margin-left:630px
+}

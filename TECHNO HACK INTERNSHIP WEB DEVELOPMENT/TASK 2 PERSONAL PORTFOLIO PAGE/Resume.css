@@ -1,0 +1,30 @@
+body
+{
+	background-color:red;
+}
+h1
+{
+    text-align:center;
+    color:blue;
+    background-color:green;
+}
+.container
+{
+    padding:30px;
+    margin:15px;
+    border:20px solid black;
+	margin-left:500px;
+    background-color:green;
+    border-radius:20px;
+    width:500px;
+}
+b
+{
+	color:white;
+	
+}
+tr
+{
+	color:white;
+	
+}

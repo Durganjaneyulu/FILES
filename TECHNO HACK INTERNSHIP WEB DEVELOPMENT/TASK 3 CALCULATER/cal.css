@@ -1,0 +1,40 @@
+body {
+    
+ background-color:black;
+}
+.btn
+{
+    background-color:blue;
+    text-align:center;
+    color:white;
+    height:50px;
+    width:60px;
+    margin-bottom:10px;
+}
+.btn1
+{
+    text-align:center;
+    color:white;
+    height:50px;
+    width:60px;
+    margin-bottom:10px;
+}
+.txt
+{
+    background-color:chocolate;
+    color:white;
+    height:50px;
+    width:240px;
+    margin-bottom:10px;
+	margin-left:630px
+}
+.btn:hover
+{
+	background-color:red;
+	color:blue
+}
+.btn1:hover
+{
+	
+	color:blue
+}

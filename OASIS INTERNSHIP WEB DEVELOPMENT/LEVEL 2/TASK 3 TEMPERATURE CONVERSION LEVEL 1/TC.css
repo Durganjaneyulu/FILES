@@ -1,0 +1,23 @@
+body 
+{
+   text-align:center;
+   background-color:black;
+}
+b
+{
+    color:blue;
+}
+h1
+{
+    color:green;
+}
+input
+{
+    color:blue;
+    background-color:red;
+}
+select
+{
+    background-color:red;
+    color:blue;
+}
